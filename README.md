@@ -1,5 +1,9 @@
 <h1 align="center"> NLW #10 Copa </h1>
 
+
+https://projeto-copa-do-mundo-nlw-rocketseat.vercel.app/
+
+
 <p align="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
